@@ -10,3 +10,5 @@
     "test": "jshint hello.js"
   }
 }
+
+npm install coveralls --save-dev
